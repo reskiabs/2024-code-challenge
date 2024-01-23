@@ -1,3 +1,6 @@
+// WPU Coding challenge 2024
+// 1/366 on 23/01/2024
+
 function grow1(x) {
   let result = x[0];
   for (let i = 1; i < x.length; i++) {
