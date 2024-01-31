@@ -1,5 +1,5 @@
 // WPU Coding challenge 2024
-// 3/366 on 29/01/2024
+// 3/366 on 30/01/2024
 
 // function hero(bullets, dragons) {
 //   if (bullets >= dragons * 2) {

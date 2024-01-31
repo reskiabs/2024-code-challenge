@@ -1,5 +1,5 @@
 // WPU Coding challenge 2024
-// 5/366 on 29/01/2024
+// 5/366 on 30/01/2024
 
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 //   if (mpg * fuelLeft >= distanceToPump) {

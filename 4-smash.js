@@ -1,5 +1,5 @@
 // WPU Coding challenge 2024
-// 4/366 on 29/01/2024
+// 4/366 on 30/01/2024
 
 // function smash(words) {
 //   return words.join(" ");
