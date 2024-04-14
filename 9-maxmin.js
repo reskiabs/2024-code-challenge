@@ -30,3 +30,12 @@ const max2 = (list) => list.sort((a, b) => b - a)[0];
 
 console.log(min2([-52, 56, 30, 29, -54, 0, -110]));
 console.log(max2([-52, 56, 30, 29, -54, 0, -110]));
+
+const min3 = (list) => Math.min(...list);
+const max3 = (list) => Math.max(...list);
+
+console.log(min3([42, 54, 65, 87, 0]));
+console.log(max3([42, 54, 65, 87, 0]));
+
+const namaku = "reski abbas";
+console.log(namaku.split(" "));

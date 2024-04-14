@@ -14,7 +14,7 @@ var countSheep = function (num) {
 console.log(countSheep(3));
 
 function countSheep2(num) {
-  return [...Array(num)].map((i) => `${i + 1} sheep...`).join("");
+  return [...Array(num)].map((_, i) => `${i + 1} sheep...`).join("");
 }
 
 console.log(countSheep2(3));
